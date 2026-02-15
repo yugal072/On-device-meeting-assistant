@@ -6,3 +6,6 @@
 # torch
 # torchaudio
 # whisper
+mss
+opencv-python
+numpy
