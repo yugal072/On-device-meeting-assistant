@@ -1,0 +1,8 @@
+﻿# Add your dependencies here
+# Example:
+# flask
+# numpy
+# opencv-python
+# torch
+# torchaudio
+# whisper

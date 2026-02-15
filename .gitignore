@@ -1,0 +1,29 @@
+﻿# Virtual Environment
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.zip
+*.tar.gz
+
+# Model files
+*.h5
+*.pth
+*.pt
+*.onnx
