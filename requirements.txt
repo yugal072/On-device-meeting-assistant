@@ -9,3 +9,16 @@
 mss
 opencv-python
 numpy
+
+# Whisper & Transformers
+torch
+torchaudio
+transformers
+datasets
+accelerate
+evaluate
+jiwer
+peft
+bitsandbytes
+librosa
+soundfile
