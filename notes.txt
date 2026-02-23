@@ -1,0 +1,5 @@
+Refactor vision_capture.py → vision_service.py (threaded, importable)
+Refactor asr_faster_whisper.py → asr_service.py (threaded, importable)
+Write backend/fusion.py — timestamp-aligns audio text + OCR text into MeetingChunks
+Write backend/llm_engine.py — calls local Phi-3 via Ollama to summarize
+Write backend/main.py — FastAPI with /start, /transcript, /summary endpoints
